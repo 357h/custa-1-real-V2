@@ -1,0 +1,17 @@
+name: custa_1_real
+description: Um app inútil que custa 1 real e relaxa sua alma.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.11
+  pdf: ^3.10.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/rain.mp3
