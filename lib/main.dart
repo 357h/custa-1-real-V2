@@ -5,6 +5,7 @@ import 'package:pdf/widgets.dart' as pw;
 import 'package:pdf/pdf.dart';
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
+// commit forçado para rebuild
 
 void main() {
   runApp(const Custa1RealApp());
